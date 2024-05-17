@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabeçalho{
+    background-color:pink;
+    color: rgb(128, 12, 128);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.cabeçalho-img{
+    width: 10%;
+}
+.resumo{
+    background-image: linear-gradient(Pink,rgb(224, 68, 224));
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    color: rgb(128, 12, 128);
+    font-size: 20px;
+    padding: 100px 0;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 64vh;
+    flex-wrap: wrap;
+}
+.resumo-div{
+    width: 30%;
+}
+    .texto-1{
+        padding: 20px 0;
+    }
+    .texto-{
+        padding: 20px 0;
+    }
+.topicos{
+    display: inline-block;
+    margin: 0 20px;
+    font-size: 25px;
+}
+.doce1{
+    width: 20%;
+    height: 30%;
+}
+.doce2{
+    width: 20%;
+    height: 30%;
+}
+.doce3{
+    width: 20%;
+    height: 30%;
+}
+.bomba{   
+    width: 20%;
+    height: 30%; 
+}
+.cupkake{
+    width: 20%;
+    height: 30%;
+}
+.brigadeiro{
+    width: 20%;
+    height: 30%;
+}
